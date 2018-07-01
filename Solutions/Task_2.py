@@ -1,6 +1,7 @@
 import bs4 as bs
 import urllib.request
 import csv
+import traceback
 
 
 def git_scraper(page):
@@ -17,7 +18,9 @@ def git_scraper(page):
                 reps.append(r.text.strip())
 
             repo_desc = div.find('p', {'itemprop': ['description']}).text.strip()
-            pr_lang = div.find('span', {'itemprop': ['programmingLanguage']}).text.strip()
+            pr_lang = div.find('span', {'itemprop': ['programmingLanguage']})
+            if pr_lang is not None:
+                pr_lang = pr_lang.text.strip()
 
             results = [[repo_name], [repo_desc], [pr_lang], [reps]]
             with open(r"results.csv", 'a') as f:
@@ -28,6 +31,7 @@ def git_scraper(page):
                 repo_name, repo_desc, pr_lang, reps))
 
         except Exception as e:
+            traceback.print_exc()
             continue
 
 
@@ -35,5 +39,4 @@ if __name__ == '__main__':
     open('results.csv', 'w').close()
     for i in range(1, 11):
         git_scraper(i)
-
     print("\n\t ### Writing to results.csv completed.. ###")

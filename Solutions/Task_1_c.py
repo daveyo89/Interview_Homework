@@ -65,7 +65,7 @@ if __name__ == '__main__':
         clear_sentence = re.sub(' +', ' ', clear_sentence).split()
         weighing_relations(clear_sentence, df)
 
-    # df = df.cumsum()
+    df = df.cumsum()
     df[all_names][all_names].plot()
 
     #Show averages.
