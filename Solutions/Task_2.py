@@ -4,12 +4,20 @@ import csv
 import traceback
 
 
+def max_page():
+    url = "https://github.com/github"
+    sauce = urllib.request.urlopen(url).read()
+    soup = bs.BeautifulSoup(sauce, 'html.parser')
+    for page_num in soup.find_all('em'):
+        num = int(page_num["data-total-pages"])
+        return num
+
+
 def git_scraper(page):
     url = "https://github.com/github?page={}".format(str(page))
 
     sauce = urllib.request.urlopen(url).read()
     soup = bs.BeautifulSoup(sauce, 'html.parser')
-
     for div in soup.find_all('li', {'itemprop': ['owns']}):
         try:
             reps = []
@@ -37,6 +45,7 @@ def git_scraper(page):
 
 if __name__ == '__main__':
     open('results.csv', 'w').close()
-    for i in range(1, 11):
+    j = max_page()
+    for i in range(1, j):
         git_scraper(i)
     print("\n\t ### Writing to results.csv completed.. ###")
