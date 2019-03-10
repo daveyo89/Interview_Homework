@@ -1,249 +1,296 @@
-['VisualStudio'],['GitHub Extension for Visual Studio'],['C#'],"[['github', 'git', 'c-sharp', 'visual-studio']]"
-['brubeck'],['A Statsd-compatible metrics aggregator'],['C'],[[]]
-['saml-ldap-team-sync'],['Sync GitHub teams to groups in Active Directory when using SAML'],['Python'],[[]]
-['platform-samples'],['A public place for all platform sample projects.'],['Ruby'],"[['ruby', 'sample', 'graphql', 'pre-receive-hooks', 'javascript', 'hooks', 'platform']]"
-['gitignore'],['A collection of useful .gitignore templates'],[None],"[['gitignore', 'git']]"
-['linguist'],"[""Language Savant. If your repository's language is being reported incorrectly, send us a pull request!""]",['Ruby'],"[['linguistic', 'syntax-highlighting', 'language-grammars', 'language-statistics']]"
-['orchestrator'],['MySQL replication topology management and HA'],['Go'],"[['mysql', 'replication', 'high-availability', 'management-system']]"
-['glb-director'],['GitHub Load Balancer Director and supporting tooling.'],['C'],[[]]
-['dmca'],['Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at'],[None],[['dmca']]
-['pages-gem'],['A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages'],['Ruby'],"[['github', 'ruby', 'jekyll', 'jekyll-plugin', 'ruby-gem', 'jekyll-theme', 'github-pages']]"
-['explore'],['Community-curated topic pages on GitHub'],['Ruby'],"[['topics', 'collections', 'community-driven']]"
-['ruby'],['The Ruby Programming Language'],['Ruby'],[[]]
-['hub'],['hub helps you win at git.'],['Go'],"[['git', 'go', 'homebrew', 'github-api']]"
-['opensource.guide'],['Community guides for open source creators'],['JavaScript'],"[['open-source', 'oss', 'tutorial', 'documentation', 'best-practices']]"
-['octodns'],['Tools for managing DNS across multiple providers'],['Python'],[[]]
-['babel-preset-github'],"[""GitHub.com's Babel configuration""]",['JavaScript'],"[['javascript', 'babel', 'configuration', 'babel-preset', 'transpiler']]"
-['gh-ost'],"[""GitHub's Online Schema Migrations for MySQL""]",['Go'],"[['mysql', 'schema-migrations']]"
-['freno'],"['freno: cooperative, highly available throttler service']",['Go'],"[['mysql', 'replication', 'throttle', 'high-availability']]"
-['cmark-gfm'],"[""GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C""]",['C'],[[]]
-['ruby-gpgme'],['a ruby interface to GnuPG Made Easy (GPGME).'],['Ruby'],[[]]
-['octocatalog-diff'],"['Compile Puppet catalogs from 2 branches, versions, etc., and compare them']",['Ruby'],[['puppet']]
-['government.github.com'],"['Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations']",['HTML'],"[['government', 'open-government', 'stories']]"
-['details-menu-element'],['A menu opened with a <details> button.'],['JavaScript'],"[['web-components', 'custom-elements']]"
-['gpgme'],['GnuPG Made Easy'],['C'],[[]]
-['webpack-config-github'],['An opinionated webpack config for GitHub apps.'],['JavaScript'],[[]]
-['site-policy'],"[""Collaborative development on GitHub's site policies, procedures, and guidelines""]",[None],"[['law', 'policy', 'privacy-policy', 'terms-of-service']]"
-['backup-utils'],['GitHub Enterprise Backup Utilities'],['Shell'],"[['github-enterprise', 'backups']]"
-['clipboard-copy-element'],['Copy element text content or input values to the clipboard.'],['JavaScript'],"[['web-components', 'custom-elements']]"
-['chatops-controller'],['A rails plugin to make creating chatops easy'],['Ruby'],[[]]
-['g-emoji-element'],"[""Backports native emoji characters to browsers that don't support them by replacing the characters with fallback images.""]",['JavaScript'],"[['emoji', 'web-components', 'custom-elements']]"
-['ccql'],['Multi server MySQL client'],['Go'],"[['mysql', 'client']]"
-['Scientist.net'],"[""A .NET library for carefully refactoring critical paths. It's a port of GitHub's Ruby Scientist library""]",['C#'],[[]]
-['pages-health-check'],['Checks your GitHub Pages site for common DNS configuration issues'],['Ruby'],[[]]
-['auto-complete-element'],['Auto-complete input values from server search results.'],['JavaScript'],"[['web-components', 'custom-elements']]"
-['vitess-gh'],['Vitess is a database clustering system for horizontal scaling of MySQL.'],['Go'],[[]]
-['gemoji'],['Emoji images and names.'],['Ruby'],"[['rubygem', 'emoji', 'ruby', 'unicode']]"
-['github-ds'],"[""A collection of Ruby libraries for working with SQL on top of ActiveRecord's connection""]",['Ruby'],"[['mysql', 'ruby', 'rails', 'activerecord', 'sql', 'key-value']]"
-['smimesign'],['An S/MIME signing utility for use with Git'],['Go'],[[]]
-['combobox-nav'],['Attach combobox navigation behavior to <input> or <textarea>.'],['JavaScript'],"[['autocomplete', 'decorator', 'combobox']]"
-['scripts-to-rule-them-all'],['Scripts to Rule Them All'],['Shell'],[[]]
-['markup'],['Determines which markup library to use to render a content file (e.g. README) on GitHub'],['Ruby'],[['readme']]
-['include-fragment-element'],['A Client Side Includes tag'],['JavaScript'],"[['web-components', 'custom-elements']]"
-['graphql-client'],"['A Ruby library for declaring, composing and executing GraphQL queries']",['Ruby'],"[['graphql', 'graphql-client', 'ruby']]"
-['github-services'],['Legacy GitHub Services Integration'],['Ruby'],[[]]
-['licensed'],['A Ruby gem to cache and verify the licenses of dependencies'],['Ruby'],"[['licensing', 'open-source-licensing', 'dependencies', 'license-management']]"
-['training-kit'],['Open source on demand courses and cheat sheets for Git and GitHub'],['HTML'],"[['git', 'training', 'cheatsheet', 'fieldservices', 'professionalservices']]"
-['fetch'],['A window.fetch JavaScript polyfill.'],['JavaScript'],"[['fetch', 'polyfill', 'javascript', 'promise']]"
-['choosealicense.com'],['A site to provide non-judgmental guidance on choosing a license for your open source project'],['Ruby'],"[['jekyll', 'open-source', 'licensing', 'law', 'open-source-licensing']]"
-['markdown-toolbar-element'],['Markdown formatting buttons for text inputs.'],['JavaScript'],"[['markdown', 'web-components', 'custom-elements']]"
-['graphql-relay-walker'],['Walk the graph'],['Ruby'],"[['ruby', 'graphql', 'relay']]"
-['eslint-plugin-github'],['An opinionated collection of ESLint shared configs and rules used by GitHub.'],['JavaScript'],"[['javascript', 'eslint', 'eslintplugin']]"
-['homebrew-bootstrap'],['A series of helper scripts to reduce duplication across `script/bootstrap`s.'],['Ruby'],[[]]
-['gov-takedowns'],['Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.'],[None],[[]]
-['rubocop-github'],['Code style checking for GitHub Ruby repositories'],['Ruby'],"[['ruby', 'rubocop']]"
-['eventlistener-polyfill'],['Polyfills EventListener behaviours from IE11 onward'],['JavaScript'],[[]]
-['github-graphql-rails-example'],"[""Example Rails app using GitHub's GraphQL API""]",['Ruby'],[[]]
-['bert'],['BERT (Binary ERlang Term) serialization library for Ruby.'],['Ruby'],[[]]
-['hubot-pager-me'],['PagerDuty integration for Hubot'],['CoffeeScript'],[[]]
-['babel-plugin-ensure-name-for-custom-elements'],"['This plugin makes sure that your custom elements always have a name property, even after minifying.']",['JavaScript'],"[['babel-plugin', 'custom-elements']]"
-['custom-element-boilerplate'],['Boilerplate for creating a custom element.'],['JavaScript'],"[['web-components', 'custom-elements']]"
-['janky'],['Continuous integration server built on top of Jenkins and Hubot'],['Ruby'],"[['hubot-script', 'jenkins', 'ruby']]"
-['query-selector'],"['Query the document tree by selector, filtering by element type.']",['JavaScript'],"[['flow', 'dom']]"
-['SoftU2F'],['Software U2F authenticator for macOS'],['Swift'],"[['macos', 'fido-u2f', 'cryptography']]"
-['quote-selection'],['Install a shortcut to append selected text to a <textarea> as a Markdown quote.'],['JavaScript'],"[['markdown', 'decorator']]"
-['git-sizer'],"['Compute various size metrics for a Git repository, flagging those that might cause problems']",['Go'],"[['github', 'git', 'golang']]"
-['jekyll-commonmark-ghpages'],['CommonMark generator for Jekyll used by GitHub Pages'],['Ruby'],[[]]
-['open-source-survey'],['The Open Source Survey'],[None],"[['open-source', 'survey']]"
-['user-select-contain-polyfill'],['Polyfills `user-select: contain` property value'],['JavaScript'],[[]]
-['jenkins_api_client'],['Ruby Client libraries for communicating with Jenkins Remote Access API'],['Ruby'],[[]]
-['ansible-overlay'],['An overlay image of Ansible to do boot time dynamic configuration of stateless systems'],['Shell'],[[]]
-['looker-slackbot\n Archived'],['A super cool Slack bot for Looker!'],['CoffeeScript'],[[]]
-['training-utils'],['A series of Bash and ZShell scripts useful when teaching about git and GitHub'],['Ruby'],[[]]
-['blakejs'],['Pure Javascript implementation of the BLAKE2b and BLAKE2s hash functions'],['JavaScript'],[[]]
-['paste-markdown'],['Paste spreadsheet cells as a Markdown table.'],['JavaScript'],"[['markdown', 'clipboard']]"
-['replicate'],['Dump and load relational objects between Ruby environments.'],['Ruby'],[[]]
-['details-dialog-element'],"[""A modal dialog that's opened with a <details> button.""]",['JavaScript'],"[['web-components', 'custom-elements']]"
-['task-lists-element'],['Drag and drop task list items.'],['JavaScript'],"[['web-components', 'custom-elements']]"
-['check-all'],['Multiple checkbox selection helper.'],['JavaScript'],[['decorator']]
-['OAuth-Ruby-Quickstart'],['Starter code and quickstart guide for a GitHub OAuth App in Ruby'],['HTML'],[[]]
-['textarea-autosize'],"[""Autosizes textarea to size of it's contents.""]",['JavaScript'],[['decorator']]
-['form-data-entries'],['FormData.entries ponyfill'],['JavaScript'],"[['ponyfill', 'formdata']]"
-['email_reply_parser'],['Small library to parse plain text email content'],['Ruby'],[[]]
-['multibinder'],['multibinder is a tiny ruby server that makes writing zero-downtime-reload services simpler.'],['Shell'],[[]]
-['time-elements'],['Web component extensions to the standard <time> element.'],['JavaScript'],"[['localization', 'web-components', 'timezone', 'custom-elements']]"
-['auto-check-element'],['An input element that validates its value with a server endpoint.'],['JavaScript'],"[['web-components', 'custom-elements']]"
-['darrrr'],['An SDK for the delegated recovery specfication'],['Ruby'],"[['ruby', 'rails', 'sinatra', 'cryptography', 'facebook', 'authentication', 'ruby-on-rails']]"
-['presto'],['Distributed SQL query engine for big data'],['Java'],[[]]
-['testrepo'],"[""DON'T DELETE THIS. USED FOR MONITORING AND WHATNOT.""]",['C'],[[]]
-['resque'],['Used by Enterprise! Resque is a Redis-backed Ruby library for controlling background jobs.'],['Ruby'],[[]]
-['orchestrator-agent'],['MySQL replication topology manager - agent (daemon)'],['Go'],[[]]
-['omniauth'],['OmniAuth is a flexible authentication system utilizing Rack middleware.'],['Ruby'],[[]]
-['GITHUB-ENTERPRISE-LICENSE-AGREEMENT'],['GITHUB LICENSE AGREEMENT: PLEASE SIGN IN ALL CAPS'],[None],[[]]
-['sdr-code-camp'],['learn you some code!'],['HTML'],[[]]
-['elastomer-client'],['A library for interacting with Elasticsearch'],['Ruby'],[[]]
-['github-elements'],"[""GitHub's Web Component collection.""]",[None],[['web-components']]
-['image-crop-element'],"['A custom element for cropping a square image. Returns x, y, width, and height.']",['JavaScript'],"[['web-components', 'custom-elements', 'image-cropper', 'image-crop']]"
-['synsanity\n Archived'],['netfilter (iptables) target for high performance lockless SYN cookies for SYN flood mitigation'],['C'],[[]]
-['incubator-airflow'],['Apache Airflow (Incubating)'],['Python'],[[]]
-['reactnd-project-readable-starter'],['Starting server code for ReactND Readable Project'],['JavaScript'],[[]]
-['accessibilityjs'],['Client side accessibility error scanner.'],['JavaScript'],[['accessibility']]
-['hubstep'],['Standard LightStep tracing of GitHub Ruby apps'],['Ruby'],[[]]
-['lit-html'],['HTML template literals in JavaScript'],['TypeScript'],[[]]
-['braintree-encryption'],['Javascript Library for Client-side Encryption with Braintree'],['JavaScript'],[[]]
-['hoosegow'],['Ephemeral Docker jails for running untrusted Ruby code'],['Ruby'],[[]]
-['oauth2_proxy'],"['A reverse proxy that provides authentication with Google, Github or other provider']",['Go'],[[]]
-['lightstep-tracer-ruby'],['The LightStep distributed tracing library for Ruby'],['Ruby'],[[]]
-['balanced-employee-ip-agreement'],"[""GitHub's employee IP agreement, open sourced and reusable""]",[None],"[['law', 'policy']]"
-['linux'],['Linux kernel source tree'],['C'],[[]]
-['url-search-params'],['Simple polyfill for URLSearchParams standard'],['JavaScript'],[[]]
-['rundeck-chatops-plugin'],['Rundeck workflow task plugin which executes a ChatOps RPC API call.'],['Java'],[[]]
-['gh-ost-ci-env'],['CI environment for gh-ost testing'],['Shell'],[[]]
-['invisible-recaptcha-validator'],['Simple Express Server for invisible reCaptcha server-side validation'],['JavaScript'],[[]]
-['lightcrawler'],['Crawl a website and run it through Google lighthouse'],['JavaScript'],"[['crawler', 'chrome', 'google-lighthouse']]"
-['collectd-elasticsearch'],['CollectD ElasticSearch plugin'],['Python'],[[]]
-['ghfw-build-extra'],['Build scripts and customizations for creating the Git Shell environment included in GitHub Desktop'],['Shell'],[[]]
-['version_sorter'],['Fast sorting of version numbers'],['C'],[[]]
-['putty'],"['mirror of git://git.tartarus.org/simon/putty.git, used for client testing']",['C'],[[]]
-['nugget'],['http integration test service'],['Ruby'],[[]]
-['babel-plugin-transform-invariant-location'],['Babel plugin that rewrites invariant calls with their source location'],['JavaScript'],"[['flow', 'babel-plugin']]"
-['rails'],['Ruby on Rails + GitHub patches'],['Ruby'],[[]]
-['mentorships\n Archived'],['GitHub Open Source Mentorships (deprecated)'],[None],[['open-source']]
-['webcomponentsjs'],['A suite of polyfills supporting the HTML Web Components specs'],['HTML'],[[]]
-['docker-awscli'],['Another aws cli for hacking'],['Shell'],[[]]
-['graphql-batch'],['A query batching executor for the graphql gem'],['Ruby'],[[]]
-['babel-plugin-transform-custom-element-classes'],['Compile ES6 HTMLElement class extensions to ES5'],['JavaScript'],[[]]
-['template'],['Minimal polyfill for <template>'],['HTML'],[[]]
-['github-graphql-relay-example'],"[""Example Relay Modern app using GitHub's GraphQL API""]",['JavaScript'],[[]]
-['plax'],['JQuery powered parallaxing'],['JavaScript'],[[]]
-['refined-github'],['Browser extension that simplifies the GitHub interface and adds useful features'],['JavaScript'],[[]]
-['objective-c-style-guide\n Archived'],['**Archived** Style guide & coding conventions for Objective-C projects'],[None],[[]]
-['swift-style-guide\n Archived'],['**Archived** Style guide & coding conventions for Swift projects'],[None],[[]]
-['fake_braintree'],['A Braintree so fake that you can avoid hitting Braintree servers in tests.'],['Ruby'],[[]]
-['developer.github.com\n Archived'],['GitHub Developer site'],['Ruby'],[[]]
-['freno-client'],"['Ruby client and throttling library for freno, the throttler service']",['Ruby'],"[['mysql', 'ruby', 'ruby-gem', 'high-availability', 'throttling', 'freno']]"
-['octofacts'],['Automate creation and maintenance of complete fact sets for rspec-puppet tests'],['Ruby'],"[['puppet', 'rspec-puppet']]"
-['snakebite'],['A pure python HDFS client'],['Python'],[[]]
-['puppetlabs-apt'],['Puppet module to help manage Apt'],['Ruby'],[[]]
-['sqoop'],['Mirror of Apache Sqoop'],['Java'],[[]]
-['pages-cucumber-fixture'],['Some fixtures for pages tests'],[None],[[]]
-['restricted-input'],['Restrict <input>s to certain valid characters (e.g. formatting phone or card numbers)'],['JavaScript'],[[]]
-['s3gof3r'],"['Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. http://godoc.org/github.com/rlmcpherson/s3gof3r']",['Go'],[[]]
-['browser-detection'],['A utility for detecting browsers in Braintree libs.'],['JavaScript'],[[]]
-['albino\n Archived'],['Ruby wrapper for the Pygments syntax highlighter.'],['Ruby'],[[]]
-['debug-repo'],['This is a debug repo for github-debug.com'],['JavaScript'],[[]]
-['RFP'],['To help Hubbers spend the right amount on the right vendor.'],[None],[[]]
-['hubot-scripts\n Archived'],"['DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json']",['CoffeeScript'],"[['coffeescript', 'hubot-script']]"
-['Spoon-Knife'],['This repo is for demonstration purposes only.'],['HTML'],[[]]
-['serialized_attributes\n Archived'],['UNMAINTAINED - kind of a bridge between using AR and a full blown schema-free db'],['Ruby'],[[]]
-['octokit.py\n Archived'],['GitHub API client for Python'],['Python'],[[]]
-['github-ldap'],['LDAP client for humans. Part of GitHub Enterprise.'],['Ruby'],[[]]
-['aws-s3'],['Fork of AWS-S3 with some custom patches. Removes const_missing hacks like the jaf-s3 gem.'],['Ruby'],[[]]
-['etcd-operator'],['etcd operator creates/configures/manages etcd clusters atop Kubernetes'],['Go'],[[]]
-['maven-plugins'],['Official GitHub Maven Plugins'],['Java'],[[]]
-['RedNoseDay'],"[""Let's see those red shirts and red noses in support of Red Nose Day!""]",[None],[[]]
-['fog-aws'],"[""Module for the 'fog' gem to support Amazon Web Services http://aws.amazon.com/""]",['Ruby'],[[]]
-['develop.github.com\n Archived'],['Outdated documentation for GitHub API v2. See http://developer.github.com/ for the current API.'],['CSS'],[[]]
-['node-slack-sdk'],['Slack Developer Kit for Node.js'],['CoffeeScript'],[[]]
-['puppet-ca_cert'],['A puppet module for managing (non-system) CA certificates.'],['Ruby'],[[]]
-['puppet-aptly'],['Puppet module for aptly'],['Ruby'],[[]]
-['puppet-orchestrator-for-mysql'],['Puppet Module used with Orchestrator'],['Puppet'],[[]]
-['rbenv-autohash\n Archived'],['Rubygems plugin to automatically run `rbenv rehash`.'],['Ruby'],[[]]
-['puppet-consul_template'],['A Puppet module to manage the config and jobs of Consul Template from Hashicorp'],['Puppet'],[[]]
-['statsd-ruby'],['A Ruby Statsd client.'],['Ruby'],[[]]
-['github-1'],['A higher-level wrapper around the Github API. Intended for the browser.'],['JavaScript'],[[]]
-['puppet-sysfs'],['Module to manage sysfs settings'],['Puppet'],[[]]
-['go-mysql'],['a powerful mysql toolset with Go'],['Go'],[[]]
-['elasticsearch-srv-discovery'],['Elasticsearch discovery with SRV records'],['Java'],[[]]
-['codemirror-contrib'],['CodeMirror community contributions'],['JavaScript'],[[]]
-['task_list\n Archived'],['GitHub flavor Markdown Task List feature components'],['CoffeeScript'],[[]]
-['game-off-2012\n Archived'],['The GitHub Game Off 2012 is a game jam / hackathon / coding challenge to create an open source a web-based game'],[None],[[]]
-['cas-overlay'],['Maven overlay for local CAS development and testing'],['Shell'],[[]]
-['go-opstocat\n Archived'],['DEPRECATED'],['Go'],[[]]
-['mysql-haproxy-xinetd'],"['Context aware MySQL Replica pools via HAProxy, sample configs & scripts']",['Shell'],[[]]
-['captain-hook'],['slack bot that provides subscription service for npm webhooks'],['JavaScript'],[[]]
-['roskomnadzor\n Archived'],['deprecated archive � moved to https://github.com/github/gov-takedowns/tree/master/Russia'],[None],[[]]
-['ohnogit'],['For when you have to use git in nodejs.'],['TypeScript'],[[]]
-['maturity-model'],['A maturity model for adopting open source'],[None],[[]]
-['mime-types'],['Ruby MIME::Types implementation'],['Ruby'],[[]]
-['banana_phone'],['BananaPhone is RPC for BananaPack'],['Ruby'],[[]]
-['force-pr'],['Basic webserver that responds to webhooks with success'],['Ruby'],[[]]
-['puppetlabs-puppetdb'],['Centralized Puppet Storage'],['Clojure'],[[]]
-['facter'],['Collect and display system facts'],['Ruby'],[[]]
-['hr-opensource\n Archived'],['An open forum for anyone to discuss HR related topics & ideas'],[None],[[]]
-['kestrel'],"['simple, distributed message queue system (inactive)']",['Scala'],[[]]
-['brakeman'],['A static analysis security vulnerability scanner for Ruby on Rails applications'],['Ruby'],[[]]
-['Rebel\n Archived'],['Cocoa framework for improving AppKit'],['Objective-C'],[[]]
-['html-pipeline'],['HTML processing filters and utilities'],['Ruby'],[[]]
-['lua-nginx-module'],['Embed the Power of Lua into NGINX HTTP servers'],['C'],[[]]
-['guard'],['Guard is a command line tool to easily handle events on file system modifications.'],['Ruby'],[[]]
-['evenflow'],['sFlow to Graphite bridge'],['Ruby'],[[]]
-['GitPad'],['Notepad.exe as Git commit editor'],['C#'],[[]]
-['azure-quickstart-templates'],['Azure Quickstart Templates'],['Shell'],[[]]
-['swordfish\n Archived'],"[""EXPERIMENTAL password management app. Don't use this.""]",['Ruby'],[[]]
-['Archimedes'],['Geometry functions for Cocoa and Cocoa Touch'],['Objective-C'],[[]]
-['msysgit'],['The version of msysGit that ships with GitHub for Windows'],['C'],[[]]
-['octo-recipes'],['A GitHub repository used to collaborate on recipes'],[None],[[]]
-['pong'],['Auxiliary repository for external ping checks'],[None],[[]]
-['puppetlabs-puppet'],['Server automation framework and application'],['Ruby'],[[]]
-['zero_push'],['Ruby wrapper for the ZeroPush API'],['Ruby'],[[]]
-['twui\n Archived'],['A framework for developing interfaces on the Mac.'],['Objective-C'],[[]]
-['rubycas-server'],"[""Provides single sign-on authentication for web applications, implementing the server-end of Jasig's CAS protocol.""]",['Ruby'],[[]]
-['ernicorn'],['Ruby BERTRPC server based on Unicorn'],['Ruby'],[[]]
-['posix-spawn'],['Fast Process::spawn for Rubys >= 1.8.7 based on the posix_spawn() system interfaces'],['Ruby'],[[]]
-['jquery-relatize_date\n Archived'],"[""jQuery version of technoweenie's relative date js library.""]",['JavaScript'],[[]]
-['learn.github.com\n Archived'],['The discovery gate for all things educational for Git and GitHub.'],['CSS'],[[]]
-['media\n Archived'],['Media files for use in your GitHub integration projects'],[None],[[]]
-['node-statsd'],"[""node.js client for Etsy'd StatsD server""]",['JavaScript'],[[]]
-['puppet-aptmirror'],"[""Mirror of Puppet's APT repo""]",['Ruby'],[[]]
-['taps\n Archived'],['simple database import/export app'],['Ruby'],[[]]
-['ruby-thecodeshop\n Archived'],['The Ruby Programming Language'],['Ruby'],[[]]
-['ssziparchive\n Archived'],['Utility class for zipping and unzipping files on iOS and Mac'],['C'],[[]]
-['upload\n Archived'],['Script to upload files to non-repo storage from the command line'],['Ruby'],[[]]
-['rack-statsd\n Archived'],['monitor your rack apps in production'],['Ruby'],[[]]
-['enterprise-ohai\n Archived'],['Ohai plugins from GitHub Enterprise'],['Ruby'],[[]]
-['pagerduty-incident-webhooks\n Archived'],['Heroku app that fires webhooks for triggered PagerDuty incidents'],['Ruby'],[[]]
-['RepoRepairTool\n Archived'],['Repairs common Windows repository problems with encodings or line endings'],['C#'],[[]]
-['ghterm\n Archived'],['github terminal'],['JavaScript'],[[]]
-['safegem\n Archived'],"[""GitHub's safe gem eval web service""]",['Ruby'],[[]]
-['request_timer\n Archived'],['Simple Rails request timer with even simpler js bookmarklet.'],['Ruby'],[[]]
-['gem-builder\n Archived'],['The scripts used to build RubyGems on GitHub'],['Ruby'],[[]]
-['will_paginate_with_hotkeys\n Archived'],['Evil twin plugin version of will_paginate to work with jQuery hotkeys plugin.'],['Ruby'],[[]]
-['jquery-hotkeys\n Archived'],['jQuery hotkeys plugin.'],['JavaScript'],[[]]
-['yard-sinatra\n Archived'],['Display sinatra routes in yard documentation.'],['Ruby'],[[]]
-['fog'],['The Ruby cloud services library.'],['Ruby'],[[]]
-['AFNetworking'],['A delightful iOS and OS X networking framework'],['Objective-C'],[[]]
-['redcloth'],['RedCloth is a Ruby library for converting Textile into HTML.'],['Ragel in Ruby Host'],[[]]
-['ledbetter'],['Script that scrapes alert statistics from Nagios and reports them to Graphite'],['Ruby'],[[]]
-['SharpDevelop'],['#develop (short for SharpDevelop) is a free IDE for .NET programming languages.'],['C#'],[[]]
-['dat-science\n Archived'],['Replaced by https://github.com/github/scientist'],['Ruby'],[[]]
-['Quick'],['A behavior-driven development test framework for Swift and Objective-C.'],['Swift'],[[]]
-['expecta'],['A Matcher Framework for Objective-C/Cocoa'],['Objective-C'],[[]]
-['Nimble'],['A Matcher Framework for Swift and Objective-C'],['Swift'],[[]]
-['OHHTTPStubs'],['A class to stub network requests easily: test your apps with fake network data (stubbed from file) and custom response time'],['Objective-C'],[[]]
-['grocer'],['Pushing your Apple notifications since 2012.'],['Ruby'],[[]]
-['aptly'],['aptly - Debian repository management tool'],['Go'],[[]]
-['railsless-deploy'],"['Obsolete, see http://www.capistranorb.com/ for new Capistrano with no Railsisms!']",['Ruby'],[[]]
-['circuitbreaker'],['Circuit Breakers in Go'],['Go'],[[]]
-['nagioseasier-module'],"['Make nagios easier to use, because you deserve it.']",['C'],[[]]
-['GHKeyBrowser'],['GitHub Key Verification Helper'],['C++'],[[]]
-['garethr-docker'],['Puppet module for managing docker'],['Ruby'],[[]]
-['veewee'],['Easing the building of vagrant boxes'],['Shell'],[[]]
-['dat-analysis'],['Analyze results from dat-science.'],['Ruby'],[[]]
-['specta'],['A light-weight TDD / BDD framework for Objective-C & Cocoa'],['Objective-C'],[[]]
-['grit'],['Grit gives you object oriented read/write access to Git repositories via Ruby.'],['Ruby'],[[]]
-['foreman'],['Manage Procfile-based applications'],['Ruby'],[[]]
-['git-msysgit'],['GitHub version of msysgit/git'],['C'],[[]]
-['training.github.com\n Archived'],['Legacy (no longer published) GitHub Training site'],['CSS'],[[]]
-['litterbox'],['a place to hold your turds and nuggets'],['Shell'],[[]]
-['game-o'],['O! a Cut.js game'],['JavaScript'],[[]]
+name,description,language,tags
+personal-website,Code that'll help you kickstart a personal website that showcases your work as a software developer.,HTML,[]
+gitignore,A collection of useful .gitignore templates,,"['gitignore', 'git']"
+libprojfs,Linux projected filesystem library,C,"['git', 'filesystems', 'fuse-filesystem', 'vfsforgit']"
+explore,Community-curated topic pages on GitHub,Ruby,"['topics', 'collections', 'community-driven']"
+opensource.guide,Community guides for open source creators,JavaScript,"['open-source', 'oss', 'tutorial', 'documentation', 'best-practices']"
+hub,A command-line tool that makes git easier to use with GitHub.,Go,"['git', 'go', 'homebrew', 'github-api', 'pull-request']"
+linguist,"Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",Ruby,"['linguistic', 'syntax-highlighting', 'language-grammars', 'language-statistics']"
+VisualStudio,GitHub Extension for Visual Studio,C#,"['github', 'git', 'c-sharp', 'visual-studio']"
+dmca,Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at,,['dmca']
+choosealicense.com,A site to provide non-judgmental guidance on choosing a license for your open source project,Ruby,"['jekyll', 'open-source', 'licensing', 'law', 'open-source-licensing']"
+government.github.com,"Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations",HTML,"['government', 'open-government', 'stories']"
+VFSForGit,GitHub development on VFSForGit [please fork upstream Microsoft/VFSForGit repository instead of this one],C#,[]
+homebrew-bootstrap,A series of helper scripts to reduce duplication across `script/bootstrap`s.,Ruby,[]
+graphql-client,"A Ruby library for declaring, composing and executing GraphQL queries",Ruby,"['graphql', 'graphql-client', 'ruby']"
+training-kit,Open source cheat sheets for Git and GitHub,HTML,"['git', 'training', 'cheatsheet', 'fieldservices', 'professionalservices']"
+eslint-plugin-github,An opinionated collection of ESLint shared configs and rules used by GitHub.,JavaScript,"['javascript', 'eslint', 'eslintplugin']"
+check-all,Multiple checkbox selection helper.,JavaScript,['decorator']
+orchestrator,MySQL replication topology management and HA,Go,"['mysql', 'replication', 'high-availability', 'management-system']"
+gh-ost,GitHub's Online Schema Migrations for MySQL,Go,"['schema-migrations', 'mysql']"
+freno,"freno: cooperative, highly available throttler service",Go,"['mysql', 'replication', 'throttle', 'high-availability']"
+vulcanizer,GitHub's ops focused Elasticsearch library,Go,"['go', 'elasticsearch', 'operations']"
+review-pull-requests-at-github-template,Template for GitHub's Reviewing Pull Requests Learning Lab course. Course ➡️,HTML,"['template', 'learning-lab']"
+platform-samples,A public place for all platform sample projects.,Ruby,"['ruby', 'sample', 'graphql', 'pre-receive-hooks', 'javascript', 'hooks', 'platform']"
+gh-mysql-tools,General purpose MySQL tools by GitHub Engineering,Shell,[]
+octodns,Tools for managing DNS across multiple providers,Python,[]
+opensourcefriday,🚲 Contribute to the open source community every Friday,Ruby,[]
+babel-preset-github,GitHub.com's Babel configuration,JavaScript,"['javascript', 'babel', 'configuration', 'babel-preset', 'transpiler']"
+flit,Twitch Twirp RPC implementation for Java,Java,[]
+cmark-gfm,"GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C",C,[]
+orchestrator-agent,MySQL replication topology manager - agent (daemon),Go,[]
+auto-complete-element,Auto-complete input values from server search results.,JavaScript,"['web-components', 'custom-elements']"
+quote-selection,Install a shortcut to append selected text to a <textarea> as a Markdown quote.,JavaScript,"['markdown', 'decorator']"
+combobox-nav,Attach combobox navigation behavior to <input> or <textarea>.,JavaScript,"['autocomplete', 'decorator', 'combobox']"
+hotkey,Global DOM element activation,JavaScript,"['decorator', 'shortcuts']"
+backup-utils,GitHub Enterprise Backup Utilities,Shell,"['github-enterprise', 'backups']"
+site-policy,"Collaborative development on GitHub's site policies, procedures, and guidelines",,"['law', 'policy', 'privacy-policy', 'terms-of-service']"
+kube-service-exporter,A Kubernetes controller to export LoadBalancer Services to Consul,Go,[]
+licensed,A Ruby gem to cache and verify the licenses of dependencies,Ruby,"['licensing', 'open-source-licensing', 'dependencies', 'license-management']"
+pages-gem,A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages,Ruby,"['github', 'ruby', 'jekyll', 'jekyll-plugin', 'ruby-gem', 'jekyll-theme', 'github-pages']"
+pages-health-check,Checks your GitHub Pages site for common DNS configuration issues,Ruby,[]
+fetch,A window.fetch JavaScript polyfill.,JavaScript,"['fetch', 'polyfill', 'javascript', 'promise']"
+ruby,The Ruby Programming Language,Ruby,[]
+scientist,🔬 A Ruby library for carefully refactoring critical paths.,Ruby,"['refactoring', 'scientist', 'rubygem', 'ruby']"
+octocatalog-diff,"Compile Puppet catalogs from 2 branches, versions, etc., and compare them",Ruby,['puppet']
+paste-markdown,Paste spreadsheet cells as a Markdown table.,JavaScript,"['markdown', 'clipboard']"
+g-emoji-element,Backports native emoji characters to browsers that don't support them by replacing the characters with fallback images.,JavaScript,"['emoji', 'web-components', 'custom-elements']"
+session-resume,Annotate fields to be persisted on navigation away from the current page,JavaScript,['decorator']
+open-source-survey,The Open Source Survey,,"['open-source', 'survey']"
+clipboard-copy-element,Copy element text content or input values to the clipboard.,JavaScript,"['web-components', 'custom-elements']"
+details-dialog-element,A modal dialog that's opened with a <details> button.,JavaScript,"['web-components', 'custom-elements']"
+include-fragment-element,A Client Side Includes tag,JavaScript,"['web-components', 'custom-elements']"
+image-crop-element,"A custom element for cropping a square image. Returns x, y, width, and height.",JavaScript,"['web-components', 'custom-elements', 'image-cropper', 'image-crop']"
+markup,Determines which markup library to use to render a content file (e.g. README) on GitHub,Ruby,['readme']
+time-elements,Web component extensions to the standard <time> element.,JavaScript,"['localization', 'web-components', 'timezone', 'custom-elements']"
+task-lists-element,Drag and drop task list items.,JavaScript,"['web-components', 'custom-elements']"
+markdown-toolbar-element,Markdown formatting buttons for text inputs.,JavaScript,"['markdown', 'web-components', 'custom-elements']"
+details-menu-element,A menu opened with a <details> button.,JavaScript,"['web-components', 'custom-elements']"
+tab-container-element,Tab container,JavaScript,"['web-components', 'custom-elements']"
+auto-check-element,An input element that validates its value with a server endpoint.,JavaScript,"['web-components', 'custom-elements']"
+custom-element-boilerplate,Boilerplate for creating a custom element.,JavaScript,"['web-components', 'custom-elements']"
+octobox,📮Untangle your GitHub Notifications,Ruby,[]
+ccql,Multi server MySQL client,Go,"['mysql', 'client']"
+.github,Community health files for the @github organization,,[]
+glb-director,GitHub Load Balancer Director and supporting tooling.,C,[]
+chatops-controller,A rails plugin to make creating chatops easy,Ruby,[]
+hoosegow,Ephemeral Docker jails for running untrusted Ruby code,Ruby,[]
+statsd-ruby,A Ruby Statsd client.,Ruby,[]
+vitess-gh,Vitess is a database clustering system for horizontal scaling of MySQL.,Go,[]
+brubeck,A Statsd-compatible metrics aggregator,C,[]
+webpack-config-github,An opinionated webpack config for GitHub apps.,JavaScript,[]
+github-services,Legacy GitHub Services Integration,Ruby,[]
+freno-client,"Ruby client and throttling library for freno, the throttler service",Ruby,"['mysql', 'ruby', 'ruby-gem', 'high-availability', 'throttling', 'freno']"
+saml-ldap-team-sync,Sync GitHub teams to groups in Active Directory when using SAML,Python,[]
+rubocop-github,Code style checking for GitHub Ruby repositories,Ruby,"['ruby', 'rubocop']"
+email_reply_parser,Small library to parse plain text email content,Ruby,[]
+rundeck-chatops-plugin,Rundeck workflow task plugin which executes a ChatOps RPC API call.,Java,[]
+lightcrawler,Crawl a website and run it through Google lighthouse,JavaScript,"['crawler', 'chrome', 'google-lighthouse']"
+github-graphql-rails-example,Example Rails app using GitHub's GraphQL API,Ruby,[]
+puppet-consul_template,A Puppet module to manage the config and jobs of Consul Template from Hashicorp,Puppet,[]
+github-elements,GitHub's Web Component collection.,,"['web-components', 'element-collection']"
+jekyll-commonmark-ghpages,CommonMark generator for Jekyll used by GitHub Pages,Ruby,[]
+smimesign,An S/MIME signing utility for use with Git,Go,[]
+gemoji,Emoji images and names.,Ruby,"['rubygem', 'emoji', 'ruby', 'unicode']"
+elastomer-client,A library for interacting with Elasticsearch,Ruby,[]
+OAuth-Ruby-Quickstart,Starter code and quickstart guide for a GitHub OAuth App in Ruby,HTML,[]
+invisible-recaptcha-validator,Simple Express Server for invisible reCaptcha server-side validation,JavaScript,[]
+github-1,A higher-level wrapper around the Github API. Intended for the browser.,JavaScript,[]
+ghfw-build-extra,Build scripts and customizations for creating the Git Shell environment included in GitHub Desktop,Shell,[]
+hubot-mysql-datastore,MySQL-backed datastore for use with Hubot,JavaScript,[]
+eventlistener-polyfill,Polyfills EventListener behaviours from IE11 onward,JavaScript,[]
+hubot-pager-me,PagerDuty integration for Hubot,CoffeeScript,[]
+testrepo,DON'T DELETE THIS. USED FOR MONITORING AND WHATNOT.,C,[]
+janky,Continuous integration server built on top of Jenkins and Hubot,Ruby,"['hubot-script', 'jenkins', 'ruby']"
+resque,Used by Enterprise! Resque is a Redis-backed Ruby library for controlling background jobs.,Ruby,[]
+rollup.js,Next-generation ES module bundler,JavaScript,[]
+ruby-gpgme,a ruby interface to GnuPG Made Easy (GPGME).,Ruby,[]
+gpgme,GnuPG Made Easy,C,[]
+hubot-slack,,CoffeeScript,[]
+github-ds,A collection of Ruby libraries for working with SQL on top of ActiveRecord's connection,Ruby,"['mysql', 'ruby', 'rails', 'activerecord', 'sql', 'key-value']"
+scripts-to-rule-them-all,Scripts to Rule Them All,Shell,[]
+graphql-relay-walker,Walk the graph,Ruby,"['ruby', 'graphql', 'relay']"
+gov-takedowns,Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.,,[]
+bert,BERT (Binary ERlang Term) serialization library for Ruby.,Ruby,[]
+babel-plugin-ensure-name-for-custom-elements,"This plugin makes sure that your custom elements always have a name property, even after minifying.",JavaScript,"['babel-plugin', 'custom-elements']"
+query-selector,"Query the document tree by selector, filtering by element type.",JavaScript,"['flow', 'dom']"
+SoftU2F,Software U2F authenticator for macOS,Swift,"['macos', 'fido-u2f', 'cryptography']"
+git-sizer,"Compute various size metrics for a Git repository, flagging those that might cause problems",Go,"['github', 'git', 'golang']"
+user-select-contain-polyfill,Polyfills `user-select: contain` property value,JavaScript,[]
+jenkins_api_client,Ruby Client libraries for communicating with Jenkins Remote Access API,Ruby,[]
+ansible-overlay,An overlay image of Ansible to do boot time dynamic configuration of stateless systems,Shell,[]
+looker-slackbot,A super cool Slack bot for Looker!,CoffeeScript,[]
+training-utils,A series of Bash and ZShell scripts useful when teaching about git and GitHub,Ruby,[]
+blakejs,Pure Javascript implementation of the BLAKE2b and BLAKE2s hash functions,JavaScript,[]
+replicate,Dump and load relational objects between Ruby environments.,Ruby,[]
+textarea-autosize,Autosizes textarea to size of it's contents.,JavaScript,['decorator']
+form-data-entries,FormData.entries ponyfill,JavaScript,"['ponyfill', 'formdata']"
+multibinder,multibinder is a tiny ruby server that makes writing zero-downtime-reload services simpler.,Shell,[]
+darrrr,An SDK for the delegated recovery specfication,Ruby,"['ruby', 'rails', 'sinatra', 'cryptography', 'facebook', 'authentication', 'ruby-on-rails']"
+presto,Distributed SQL query engine for big data,Java,[]
+omniauth,OmniAuth is a flexible authentication system utilizing Rack middleware.,Ruby,[]
+GITHUB-ENTERPRISE-LICENSE-AGREEMENT,GITHUB LICENSE AGREEMENT: PLEASE SIGN IN ALL CAPS,,[]
+sdr-code-camp,learn you some code!,HTML,[]
+synsanity,netfilter (iptables) target for high performance lockless SYN cookies for SYN flood mitigation,C,[]
+incubator-airflow,Apache Airflow (Incubating),Python,[]
+reactnd-project-readable-starter,Starting server code for ReactND Readable Project,JavaScript,[]
+accessibilityjs,Client side accessibility error scanner.,JavaScript,['accessibility']
+hubstep,Standard LightStep tracing of GitHub Ruby apps,Ruby,[]
+lit-html,HTML template literals in JavaScript,TypeScript,[]
+braintree-encryption,Javascript Library for Client-side Encryption with Braintree,JavaScript,[]
+oauth2_proxy,"A reverse proxy that provides authentication with Google, Github or other provider",Go,[]
+lightstep-tracer-ruby,The LightStep distributed tracing library for Ruby,Ruby,[]
+balanced-employee-ip-agreement,"GitHub's employee IP agreement, open sourced and reusable",,"['law', 'policy']"
+linux,Linux kernel source tree,C,[]
+url-search-params,Simple polyfill for URLSearchParams standard,JavaScript,[]
+d3,"Bring data to life with SVG, Canvas and HTML. 📊📈🎉",JavaScript,[]
+gh-ost-ci-env,CI environment for gh-ost testing,Shell,[]
+collectd-elasticsearch,CollectD ElasticSearch plugin,Python,[]
+wmail-user-scripts,,CSS,[]
+version_sorter,Fast sorting of version numbers,C,[]
+putty,"mirror of git://git.tartarus.org/simon/putty.git, used for client testing",C,[]
+nugget,http integration test service,Ruby,[]
+babel-plugin-transform-invariant-location,Babel plugin that rewrites invariant calls with their source location,JavaScript,"['flow', 'babel-plugin']"
+rails,Ruby on Rails + GitHub patches,Ruby,[]
+mentorships,GitHub Open Source Mentorships (deprecated),,['open-source']
+practice,,,[]
+webcomponentsjs,A suite of polyfills supporting the HTML Web Components specs,HTML,[]
+docker-awscli,Another aws cli for hacking,Shell,[]
+graphql-batch,A query batching executor for the graphql gem,Ruby,[]
+babel-plugin-transform-custom-element-classes,Compile ES6 HTMLElement class extensions to ES5,JavaScript,[]
+template,Minimal polyfill for <template>,HTML,[]
+github-graphql-relay-example,Example Relay Modern app using GitHub's GraphQL API,JavaScript,[]
+plax,JQuery powered parallaxing,JavaScript,[]
+refined-github,Browser extension that simplifies the GitHub interface and adds useful features,JavaScript,[]
+objective-c-style-guide,**Archived** Style guide & coding conventions for Objective-C projects,,[]
+swift-style-guide,**Archived** Style guide & coding conventions for Swift projects,,[]
+fake_braintree,A Braintree so fake that you can avoid hitting Braintree servers in tests.,Ruby,[]
+developer.github.com,GitHub Developer site,Ruby,[]
+octofacts,Automate creation and maintenance of complete fact sets for rspec-puppet tests,Ruby,"['puppet', 'rspec-puppet']"
+snakebite,A pure python HDFS client,Python,[]
+puppetlabs-apt,Puppet module to help manage Apt,Ruby,[]
+sqoop,Mirror of Apache Sqoop,Java,[]
+pages-cucumber-fixture,Some fixtures for pages tests,,[]
+restricted-input,Restrict <input>s to certain valid characters (e.g. formatting phone or card numbers),JavaScript,[]
+s3gof3r,"Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. http://godoc.org/github.com/rlmcpherson/s3gof3r",Go,[]
+browser-detection,A utility for detecting browsers in Braintree libs.,JavaScript,[]
+game-off-2016,GitHub's month-long game jam 🎮 November 2016,,[]
+albino,Ruby wrapper for the Pygments syntax highlighter.,Ruby,[]
+debug-repo,This is a debug repo for github-debug.com,JavaScript,[]
+hubot-scripts,"DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json",CoffeeScript,"['coffeescript', 'hubot-script']"
+Spoon-Knife,This repo is for demonstration purposes only.,HTML,[]
+serialized_attributes,UNMAINTAINED - kind of a bridge between using AR and a full blown schema-free db,Ruby,[]
+octokit.py,GitHub API client for Python,Python,[]
+github-ldap,LDAP client for humans. Part of GitHub Enterprise.,Ruby,[]
+aws-s3,Fork of AWS-S3 with some custom patches. Removes const_missing hacks like the jaf-s3 gem.,Ruby,[]
+etcd-operator,etcd operator creates/configures/manages etcd clusters atop Kubernetes,Go,[]
+maven-plugins,Official GitHub Maven Plugins,Java,[]
+tainted_hash,,Ruby,"['ruby', 'rails', 'hash', 'input-sanitization']"
+fog-aws,Module for the 'fog' gem to support Amazon Web Services http://aws.amazon.com/,Ruby,[]
+develop.github.com,Outdated documentation for GitHub API v2. See http://developer.github.com/ for the current API.,CSS,[]
+node-slack-sdk,Slack Developer Kit for Node.js,CoffeeScript,[]
+google-analytics,,JavaScript,[]
+puppet-ca_cert,A puppet module for managing (non-system) CA certificates.,Ruby,[]
+sparkles-legacy,A Go backend for giving each other ✨ in Slack,Go,[]
+puppet-aptly,Puppet module for aptly,Ruby,[]
+puppet-orchestrator-for-mysql,Puppet Module used with Orchestrator,Puppet,[]
+rbenv-autohash,Rubygems plugin to automatically run `rbenv rehash`.,Ruby,[]
+game-off-2013,,,[]
+puppet-sysfs,Module to manage sysfs settings,Puppet,[]
+go-mysql,a powerful mysql toolset with Go,Go,[]
+elasticsearch-srv-discovery,Elasticsearch discovery with SRV records,Java,[]
+codemirror-contrib,CodeMirror community contributions,JavaScript,[]
+task_list,GitHub flavor Markdown Task List feature components,CoffeeScript,[]
+game-off-2012,The GitHub Game Off 2012 is a game jam / hackathon / coding challenge to create an open source a web-based game,,[]
+cas-overlay,Maven overlay for local CAS development and testing,Shell,[]
+go-opstocat,DEPRECATED,Go,[]
+puppet-vault,💾 📦 puppet-module to install Hashicorp's Vault.,Ruby,[]
+mysql-haproxy-xinetd,"Context aware MySQL Replica pools via HAProxy, sample configs & scripts",Shell,[]
+captain-hook,slack bot that provides subscription service for npm webhooks,JavaScript,[]
+roskomnadzor,deprecated archive — moved to https://github.com/github/gov-takedowns/tree/master/Russia,,[]
+ohnogit,For when you have to use git in nodejs.,TypeScript,[]
+maturity-model,A maturity model for adopting open source,,[]
+mime-types,Ruby MIME::Types implementation,Ruby,[]
+banana_phone,BananaPhone is RPC for BananaPack,Ruby,[]
+force-pr,Basic webserver that responds to webhooks with success,Ruby,[]
+puppetlabs-puppetdb,Centralized Puppet Storage,Clojure,[]
+libgit2sharp,Git + .Net/Mono = ❤,C#,[]
+facter,Collect and display system facts,Ruby,[]
+hr-opensource,An open forum for anyone to discuss HR related topics & ideas,,[]
+kestrel,"simple, distributed message queue system (inactive)",Scala,[]
+brakeman,A static analysis security vulnerability scanner for Ruby on Rails applications,Ruby,[]
+winbootstrap,,PowerShell,[]
+Rebel,Cocoa framework for improving AppKit,Objective-C,[]
+html-pipeline,HTML processing filters and utilities,Ruby,[]
+lua-nginx-module,Embed the Power of Lua into NGINX HTTP servers,C,[]
+guard,Guard is a command line tool to easily handle events on file system modifications.,Ruby,[]
+evenflow,sFlow to Graphite bridge,Ruby,[]
+GitPad,Notepad.exe as Git commit editor,C#,[]
+azure-quickstart-templates,Azure Quickstart Templates,Shell,[]
+swordfish,EXPERIMENTAL password management app. Don't use this.,Ruby,[]
+Archimedes,Geometry functions for Cocoa and Cocoa Touch,Objective-C,[]
+msysgit,The version of msysGit that ships with GitHub for Windows,C,[]
+kano-desktop,,Shell,[]
+octo-recipes,A GitHub repository used to collaborate on recipes,,[]
+pong,Auxiliary repository for external ping checks,,[]
+puppetlabs-puppet,Server automation framework and application,Ruby,[]
+zero_push,Ruby wrapper for the ZeroPush API,Ruby,[]
+twui,A framework for developing interfaces on the Mac.,Objective-C,[]
+rubycas-server,"Provides single sign-on authentication for web applications, implementing the server-end of Jasig's CAS protocol.",Ruby,[]
+ernicorn,Ruby BERTRPC server based on Unicorn,Ruby,[]
+posix-spawn,Fast Process::spawn for Rubys >= 1.8.7 based on the posix_spawn() system interfaces,Ruby,[]
+jquery-relatize_date,jQuery version of technoweenie's relative date js library.,JavaScript,[]
+learn.github.com,The discovery gate for all things educational for Git and GitHub.,CSS,[]
+media,Media files for use in your GitHub integration projects,,[]
+node-statsd,node.js client for Etsy'd StatsD server,JavaScript,[]
+puppet-aptmirror,Mirror of Puppet's APT repo,Ruby,[]
+taps,simple database import/export app,Ruby,[]
+ruby-thecodeshop,The Ruby Programming Language,Ruby,[]
+ssziparchive,Utility class for zipping and unzipping files on iOS and Mac,C,[]
+upload,Script to upload files to non-repo storage from the command line,Ruby,[]
+rack-statsd,monitor your rack apps in production,Ruby,[]
+enterprise-ohai,Ohai plugins from GitHub Enterprise,Ruby,[]
+pagerduty-incident-webhooks,Heroku app that fires webhooks for triggered PagerDuty incidents,Ruby,[]
+RepoRepairTool,Repairs common Windows repository problems with encodings or line endings,C#,[]
+ghterm,github terminal,JavaScript,[]
+safegem,GitHub's safe gem eval web service,Ruby,[]
+request_timer,Simple Rails request timer with even simpler js bookmarklet.,Ruby,[]
+gem-builder,The scripts used to build RubyGems on GitHub,Ruby,[]
+will_paginate_with_hotkeys,Evil twin plugin version of will_paginate to work with jQuery hotkeys plugin.,Ruby,[]
+jquery-hotkeys,jQuery hotkeys plugin.,JavaScript,[]
+yard-sinatra,Display sinatra routes in yard documentation.,Ruby,[]
+fog,The Ruby cloud services library.,Ruby,[]
+AFNetworking,A delightful iOS and OS X networking framework,Objective-C,[]
+redcloth,RedCloth is a Ruby library for converting Textile into HTML.,Ragel in Ruby Host,[]
+ledbetter,Script that scrapes alert statistics from Nagios and reports them to Graphite,Ruby,[]
+SharpDevelop,#develop (short for SharpDevelop) is a free IDE for .NET programming languages.,C#,[]
+dat-science,Replaced by https://github.com/github/scientist,Ruby,[]
+Quick,A behavior-driven development test framework for Swift and Objective-C.,Swift,[]
+expecta,A Matcher Framework for Objective-C/Cocoa,Objective-C,[]
+Nimble,A Matcher Framework for Swift and Objective-C,Swift,[]
+OHHTTPStubs,A class to stub network requests easily: test your apps with fake network data (stubbed from file) and custom response time,Objective-C,[]
+grocer,Pushing your Apple notifications since 2012.,Ruby,[]
+aptly,aptly - Debian repository management tool,Go,[]
+railsless-deploy,"Obsolete, see http://www.capistranorb.com/ for new Capistrano with no Railsisms!",Ruby,[]
+circuitbreaker,Circuit Breakers in Go,Go,[]
+nagioseasier-module,"Make nagios easier to use, because you deserve it.",C,[]
+GHKeyBrowser,GitHub Key Verification Helper,C++,[]
+garethr-docker,Puppet module for managing docker,Ruby,[]
+STUtils,,Objective-C,[]
+veewee,Easing the building of vagrant boxes,Shell,[]
+dat-analysis,Analyze results from dat-science.,Ruby,[]
+nagios-plugins-github,,C,[]
+specta,A light-weight TDD / BDD framework for Objective-C & Cocoa,Objective-C,[]
+grit,Grit gives you object oriented read/write access to Git repositories via Ruby.,Ruby,[]
+foreman,Manage Procfile-based applications,Ruby,[]
+git-msysgit,GitHub version of msysgit/git,C,[]
+training.github.com,Legacy (no longer published) GitHub Training site,CSS,[]
+game-o,O! a Cut.js game,JavaScript,[]
+gollum,Unsupported — use https://github.com/gollum/gollum!,Ruby,[]
+MASPreferences,Custom implementation of Preferences window in Cocoa applications for Mac OS X,Objective-C,[]
+backstop,HTTP service for submitting metrics to Graphite,Ruby,[]
+uiimage-from-animated-gif,A UIImage category that loads animated GIFs,Objective-C,[]
+hubahuba,Ruby and Rails core extensions used by GitHub.,Ruby,[]
+teach.github.com,The open source teaching materials site for Git and GitHub technologies,CSS,[]
+gitcasts,Educational screencasts about Git,CSS,[]
+htttee,unix's tee over http,Ruby,[]
+marginalia,Attach comments to ActiveRecord's SQL queries,Ruby,[]
+buildstep,Buildstep uses Docker and Buildpacks to build applications like Heroku,Shell,[]
+django-floppyforms,Full control of form rendering in the templates.,Python,[]
+rack-ssl-enforcer,A simple Rack middleware to enforce ssl connections,Ruby,[]
+gitscm-old,Git homepage that rocks - from the git.or.cz awesomeness,Ruby,[]
+faceup,More than just mustaches.,JavaScript,[]
+aroma,"a game engine: lua, opengl es 2.0, native client",C,[]
+puppet-module-group,Puppet Group Module (custom group providers),Ruby,[]
+windows-msysgit,This repository is deprecated.,Perl,[]
+pycon2011,,Python,[]

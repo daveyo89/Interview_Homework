@@ -1,6 +1,5 @@
 import re
 from IPython.display import display
-import numpy as np
 import pandas as pd
 
 text = """ Jim likes Larry and Jean, but hates Kim.  

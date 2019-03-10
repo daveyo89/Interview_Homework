@@ -1,6 +1,5 @@
 import re
 from IPython.display import display
-import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -48,7 +47,7 @@ def weighing_relations(sentence, df):
             if curr_rel == 'hates':
                 rel_value = -7
             # df.ix[key, curr_name] = curr_rel
-            df.ix[key, curr_name] = rel_value
+            df.loc[key, curr_name] = rel_value
 
 
 if __name__ == '__main__':

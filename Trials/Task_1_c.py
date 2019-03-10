@@ -47,7 +47,7 @@ def weighing_relations(sentence, df):
             if curr_rel == 'hates':
                 rel_value = -7
             # df.ix[key, curr_name] = curr_rel
-            df.ix[key, curr_name] = rel_value
+            df.loc[key, curr_name] = rel_value
 
 
 # Filling up all names array.
