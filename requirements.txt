@@ -6,7 +6,6 @@ ipython==7.3.0
 ipython-genutils==0.2.0
 jedi==0.13.3
 kiwisolver==1.0.1
-matplotlib==3.0.3
 nltk==3.4
 numpy==1.16.2
 pandas==0.24.1
@@ -25,3 +24,4 @@ soupsieve==1.8
 tqdm==4.31.1
 traitlets==4.3.2
 wcwidth==0.1.7
+matplotlib==3.0.3
